@@ -31,6 +31,5 @@ class MyApp extends StatelessWidget {
         home: const SplashPage(),
       ),
     );
-    // i am using BlocProvider to provide the SplashCubit to the SplashPage
   }
 }
